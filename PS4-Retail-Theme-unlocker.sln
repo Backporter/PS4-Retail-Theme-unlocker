@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS4-Retail-Theme-unlocker", "PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker.csproj", "{AEAB5619-3A21-4FAE-9D96-2A9D0FFE8DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAB5619-3A21-4FAE-9D96-2A9D0FFE8DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAB5619-3A21-4FAE-9D96-2A9D0FFE8DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAB5619-3A21-4FAE-9D96-2A9D0FFE8DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAB5619-3A21-4FAE-9D96-2A9D0FFE8DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD26B9F2-2DB9-4DDA-A37A-C8AB3486D35A}
+	EndGlobalSection
+EndGlobal
