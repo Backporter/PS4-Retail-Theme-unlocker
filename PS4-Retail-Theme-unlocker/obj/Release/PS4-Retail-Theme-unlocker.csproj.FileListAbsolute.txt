@@ -1,0 +1,11 @@
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\bin\Release\PS4-Retail-Theme-unlocker.exe.config
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\bin\Release\PS4-Retail-Theme-unlocker.exe
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\bin\Release\PS4-Retail-Theme-unlocker.pdb
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4-Retail-Theme-unlocker.csprojAssemblyReference.cache
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4_Retail_Theme_unlocker.Credits.resources
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4_Retail_Theme_unlocker.Main.resources
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4_Retail_Theme_unlocker.Properties.Resources.resources
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4-Retail-Theme-unlocker.csproj.GenerateResource.cache
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4-Retail-Theme-unlocker.csproj.CoreCompileInputs.cache
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4-Retail-Theme-unlocker.exe
+C:\Users\Kernel\source\repos\PS4-Retail-Theme-unlocker\PS4-Retail-Theme-unlocker\obj\Release\PS4-Retail-Theme-unlocker.pdb
