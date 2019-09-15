@@ -1,5 +1,5 @@
 # PS4-Retail-Theme-unlocker
-This tool uses ez_fake_dlc.py to create the unlocker pkg
-
+This tool creates an unlocker Package File(.pkg) for themes
+This is what it should look like in both the main and data folder:
 ![Screenshot](lookCapture.PNG)
-This is what it should look like
+![Screenshot](look2Capture.PNG)
